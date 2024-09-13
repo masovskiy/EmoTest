@@ -74,6 +74,6 @@ pip install -r requirements.txt
 
 ## Лицензия
 
-Данный проект лицензирован под лицензией GNU. См. [https://www.gnu.org/licenses/gpl-3.0.html](ЛИЦЕНЗИЯ) для подробностей
+Данный проект лицензирован под лицензией GNU. См. [ЛИЦЕНЗИЯ](https://www.gnu.org/licenses/gpl-3.0.html) для подробностей
 
 ---
