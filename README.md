@@ -29,8 +29,10 @@ pip install -r requirements.txt
    ```bash
    python main.py
    ```
+   Или же запустите программу на Replit(Желательно в полноэкранном виде)
+   [https://replit.com/@masovskiy/EmoTest](Replit)
 
-2. **Функции программы**:
+3. **Функции программы**:
 
    - `print_ascii_art()`: Отображает ASCII-арт с вертикальным градиентом от красного к желтому.
    - `generate_neural_network()`: Создаёт нейронную сеть и выбирает очередь событий.
