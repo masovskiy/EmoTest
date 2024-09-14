@@ -30,7 +30,7 @@ pip install -r requirements.txt
    python main.py
    ```
    Или же запустите программу на Replit(Желательно в полноэкранном виде)
-   [https://replit.com/@masovskiy/EmoTest](Replit)
+   [Ссылка на Replit репозитория](https://replit.com/@masovskiy/EmoTest)
 
 3. **Функции программы**:
 
